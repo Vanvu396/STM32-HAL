@@ -6,7 +6,7 @@ STM32 microcontroller LoRa Ra-02 433MHz antenna
 Wiring
 The wire connections are like following:
 
-STM pin	Module pin
+||STM pin||	Module pin||
 SPI MISO	MISO
 SPI MOSI	MOSI
 SPI CLK	CLK
